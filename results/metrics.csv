@@ -1,0 +1,2 @@
+initial_balance,final_value,total_return,return_pct,total_trades,buy_count,sell_count,indicator_correlations
+100000,100000,0,0.0,0,0,0,"{'SMA_10': 0.0, 'RSI': 0.0, 'MACD': 0.0}"
